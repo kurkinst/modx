@@ -1,0 +1,9 @@
+<div class="container">
+    <div class="row items">
+    	[[pdoResources?
+        &tpl=`blog-item`
+        &parents=`888`
+        &limit=`12`
+        ]]
+    </div>
+</div>
